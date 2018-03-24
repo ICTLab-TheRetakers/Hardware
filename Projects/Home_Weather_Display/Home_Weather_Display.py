@@ -82,4 +82,4 @@ while True:
 		break
 
 	# wait some time before re-updating the LCD
-	sleep(0.05)
+	sleep(5)
